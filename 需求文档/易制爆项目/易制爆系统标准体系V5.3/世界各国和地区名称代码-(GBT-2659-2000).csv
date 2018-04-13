@@ -1,0 +1,240 @@
+序号,中文简称,英文简称,两字符代码,三字符代码,数字代码,中文和英文全称,字典类型
+1,阿富汗,AFGHANISTAN,AF,AFG,4,阿富汗伊斯兰国 Islamic State of Afghanistan,国家和地区
+2,阿尔巴尼亚,ALBANIA,AL,ALB,8,阿尔马尼亚共和国 Republic of Albania,国家和地区
+3,阿尔及利亚,ALGERIA,DZ,DZA,12,阿尔及利亚民主人民共和国 Democratic People's Republic of Algeria,国家和地区
+4,美属萨摩亚,AMERICAN SAMOA,AS,ASM,16,美属萨摩亚 American Samoa,国家和地区
+5,安道尔,ANDORRA,AD,AND,20,安道尔公国 Principality of Andorra,国家和地区
+6,安哥拉,ANGOLA,AO,AGO,24,安哥拉共和国 Republic of Angola,国家和地区
+7,安圭拉,ANGUILLA,AI,AIA,660,安圭拉 Anguilla,国家和地区
+8,南极洲,ANTARCTICA,AQ,ATA,10,南极洲 Antarctica,国家和地区
+9,安提瓜和巴布达,ANTIGUA AND BARBUDA,AG,ATG,28,安提瓜和巴布达 Antigua and Barbuda,国家和地区
+10,阿根廷,ARGENTINA,AR,ARG,32,阿根廷共和国 Republic of Argentina,国家和地区
+11,亚美尼亚,ARMENIA,AM,ARM,51,亚美尼亚共和国 Republic of Armenia,国家和地区
+12,阿鲁巴,ARUBA,AW,ABW,533,阿鲁巴 Aruba,国家和地区
+13,澳大利亚,AUSTRALIA,AU,AUS,36,澳大利亚联邦 Commonwealth of Australia,国家和地区
+14,奥地利,AUSTRIA,AT,AUT,40,奥地利共和国 Republic of Austria,国家和地区
+15,阿塞拜疆,AZERBAIJAN,AZ,AZE,31,阿塞拜疆共和国 Republic of Azerbaijan,国家和地区
+16,巴哈马,BAHAMAS,BS,BHS,44,巴哈马联邦 Commonwealth of the Bahamas,国家和地区
+17,巴林,BAHRAIN,BH,BHR,48,巴林国 State of Bahrain,国家和地区
+18,孟加拉国,BANGLADESH,BD,BGD,50,孟加拉人民共和国 People's Republic of Bangladesh,国家和地区
+19,巴巴多斯,BARBADOS,BB,BRB,52,巴巴多斯 Barbados,国家和地区
+20,白俄罗斯,BELARUS,BY,BLR,112,白俄罗斯共和国 Republic of Belarus,国家和地区
+21,比利时,BELGIUM,BE,BEL,56,比利时王国 Kingdom of belgium,国家和地区
+22,伯利兹,BELIZE,BZ,BLZ,84,伯利兹 Belize,国家和地区
+23,贝宁,BENIN,BJ,BEN,204,贝宁共和国 Republic of Benin,国家和地区
+24,百慕大,BERMUDA,BM,BMU,60,百慕大群岛 Bermuda Islands,国家和地区
+25,不丹,BHUTAN,BT,BTN,64,不丹王国 Kingdom of Bhutan,国家和地区
+26,玻利维亚,BOLIVIA,BO,BOL,68,玻利维亚共和国 Republic of Bolivia,国家和地区
+27,波黑,BOSNIA AND HERZEGOVINA,BA,BIH,70,波斯尼亚和黑塞哥维那 Bosnia and Herzegovina,国家和地区
+28,博茨瓦纳,BOTSWANA,BW,BWA,72,博茨瓦纳共和国 Republic of Botswana,国家和地区
+29,布维岛,BOUVET ISLAND,BV,BVT,74,布维岛 Bouvet Island,国家和地区
+30,巴西,BRAZIL,BR,BRA,76,巴西联邦共和国 Federative Republic of Brazil,国家和地区
+31,英属印度洋领土,BRITISH INDIAN OCEAN TER-RITORY,IO,IOT,86,英属印度洋领土 British Indian Ocean Territory,国家和地区
+32,文莱,BRUNEI DARUSSALAM,BN,BRN,96,文莱达鲁萨兰国 Brunei Darussalam,国家和地区
+33,保加利亚,BULGARIA,BG,BGR,100,保加利亚共和国 Republic ov Bulgaria,国家和地区
+34,布基纳法索,BURKINA FASO,BF,BFA,854,布基纳法索 Burkina Faso,国家和地区
+35,布隆迪,BURUNDI,BI,BDI,108,布隆迪共和国 Republic of Burundi,国家和地区
+36,柬埔寨,CAMBODIA,KH,KHM,116,柬埔寨王国 Kingdom of Cambodia,国家和地区
+37,喀麦隆,CAMEROON,CM,CMR,120,喀麦隆共和国 Republic of Cameroon,国家和地区
+38,加拿大,CANADA,CA,CAN,124,加拿大 Canada,国家和地区
+39,佛得角,CAPE VERDE,CV,CPV,132,佛得角共和国 Republic of Cape Verde,国家和地区
+40,开曼群岛,CAYMAN ISLANDS,KY,CYM,136,开曼群岛 Cayman Islands,国家和地区
+41,中非,CENTRAL AFRICA,CF,CAF,140,中非共和国 Central African Republic,国家和地区
+42,乍得,CHAD,TD,TCD,148,乍得共和国 Republic of Chad,国家和地区
+43,智利,CHILE,CL,CHL,152,智利共和国 Republic of Chile,国家和地区
+44,中国,CHINA,CN,CHN,156,中华人民共和国 People's Republic of China,国家和地区
+45,香港,HONG KONG,HK,HKG,344,香港 Hong Kong,国家和地区
+46,澳门,MACAU,MO,MAC,446,澳门 Macau,国家和地区
+47,台湾,"TAIWAN, PROVINCE OF CHINA",TW,TWN,158,"中国台湾 Taiwan, Province of China",国家和地区
+48,圣诞岛,CHRISTMAS ISLAND,CS,CSR,162,圣诞岛 Christmas Island,国家和地区
+49,科科斯(基林)群岛,COCOS(KEELING) ISLANDS,CC,CCK,166,科科斯(基林)群岛 Cocos(Keeling) Islands,国家和地区
+50,哥伦比亚,COLOMBIA,Co,COL,170,哥伦比亚共和国 Republic of Colombia,国家和地区
+51,科摩罗,COMOROS,KM,COM,174,科摩罗伊斯兰联邦共和国 Federal Islamic Republic of the Co-moros,国家和地区
+52,刚果（布）,CONGO,CG,COG,178,刚果共和国 Republic of Congo,国家和地区
+53,刚果（金）,"CONGO, THE DEMOCRATIC REPUBLIC OF THE",CD,COD,180,刚果民主共和国 Democratic Republic of Congo,国家和地区
+54,库克群岛,COOK ISLANDS,CK,COK,184,库克群岛 Cook Islands,国家和地区
+55,哥斯达黎加,COSTA RICA,CR,CR,188,哥斯达黎加共和国 Republic of Costa Rica,国家和地区
+56,科特迪瓦,COTE D'IVOIRE,CI,CIV,384,科特迪瓦共和国 Republic of Cote d'Ivire,国家和地区
+57,克罗地亚,CROATIA,HR,HRV,191,克罗地亚共和国 Republic of Croatia,国家和地区
+58,古巴,CUBA,CU,CUB,192,古巴共和国 Republic of Cuba,国家和地区
+59,塞浦路斯,CYPRUS,CY,CYP,196,塞浦路斯共和国 Republic of Cyprus,国家和地区
+60,捷克,CZECH REPOUBLIC,CZ,CZE,203,捷克共和国 Czech Republic,国家和地区
+61,丹麦,DENMARK,DK,DNK,208,丹麦王国 Kingdom of Denmark,国家和地区
+62,吉布提,DJIBOUTI,DJ,DJI,262,吉布提共和国 Republic of Djibouti,国家和地区
+63,多米尼克,DOMINICA,DM,DMA,212,多米尼克联邦 Commonwealth of Dominica,国家和地区
+64,多米尼加共和国,DOMINICAN REPUBLIC,DO,DOM,214,多米尼加共和国 Dominican Republic,国家和地区
+65,东帝汶,EAST TIMOR,TP,TMP,626,东帝汶 East Timor,国家和地区
+66,厄瓜多尔,ECUADOR,EC,ECU,218,厄瓜多尔共和国 Republic of Ecuador,国家和地区
+67,埃及,EGYPT,EG,EGY,818,阿拉伯埃及共和国 Arab Republic of Egypt,国家和地区
+68,萨尔瓦多,EL SALVADOR,SV,SLV,222,萨尔瓦多共和国 Republic of El Salvador,国家和地区
+69,赤道几内亚,EQUATORIAL GUINEA,GQ,GNQ,226,赤道几内亚共和国 Republic of Equatorial Guinea,国家和地区
+70,厄立特里亚,ERITREA,ER,ERI,232,厄立特里亚国 State of Eritrea,国家和地区
+71,爱沙尼亚,ESTONIA,EE,EST,233,爱沙尼亚共和国 Republic of Estonia,国家和地区
+72,埃塞俄比亚,ETHIOPIA,ET,ETH,231,埃塞俄比亚 Ethiopia,国家和地区
+73,福克兰群岛(马尔维纳斯),FALKLAND ISLANDS(MALVINAS),FK,FLK,238,福克兰群岛(马尔维纳斯) Falkland Islands(Malvinas),国家和地区
+74,法罗群岛,FAROE ISLANDS,FO,FRO,234,法罗群岛 Faroe Islands,国家和地区
+75,斐济,FIJI,FJ,FJI,242,斐济共和国 Republic of Fiji,国家和地区
+76,芬兰,FINLAND,FI,FIN,246,芬兰共和国 Republic of Finland,国家和地区
+77,法国,FRANCE,FR,FRA,250,法兰西共和国 French Republic,国家和地区
+78,法属圭亚那,FRENCH GUIANA,GF,GUF,254,法属圭亚那 French Guiana,国家和地区
+79,法属波利尼西亚,FRENCH POLYNESIA,PF,PYF,258,法属波利尼西亚 French Polynesia,国家和地区
+80,法属南部领土,FRENCH SOUTHERN TERRITO-RIES,TF,ATF,260,法属南部领土 French Southern Territories,国家和地区
+81,加蓬,GABON,GA,GAB,266,加蓬共和国 Gabonese Republic,国家和地区
+82,冈比亚Gambia,,GM,GMB,270,冈比亚共和国 Republic of Gambia,国家和地区
+83,格鲁吉亚,GEORGIA,GE,GEO,268,格鲁吉亚共和国 Republic of Georgia,国家和地区
+84,德国,GERMANY,DE,DEU,276,德意志联邦共和国 Federal Republic of Germany,国家和地区
+85,加纳,GHANA,GH,GHA,288,加纳共和国 Republic of Ghana,国家和地区
+86,直布罗陀,GIBRALTAR,GI,GIB,292,直布罗陀 Gibraltar,国家和地区
+87,希腊,GREECE,GR,GRC,300,希腊共和国 Hellenic Republic,国家和地区
+88,格陵兰,GREENLAND,GL,GRL,304,格陵兰 Greenland,国家和地区
+89,格林纳达,GRENADA,GD,GRD,308,格林纳达 Grenada,国家和地区
+90,瓜德罗普,GUADELOUPE,GP,GLP,312,瓜德罗普 Guadeloupe,国家和地区
+91,关岛,GUAM,GU,GUM,316,关岛 Guam,国家和地区
+92,危地马拉,GUATEMALA,GT,GTM,320,危地马拉共和国 Republic of Guatemala,国家和地区
+93,几内亚,GUINEA,GN,GIN,324,几内亚共和国 Republic of Guinea,国家和地区
+94,几内亚比绍,GUINE-BISSAU,GW,GNB,624,几内亚比绍共和国 Republic of Guine-bissau,国家和地区
+95,圭亚那,GUYANA,GY,GUY,328,圭亚那合作共和国 Cooperative Republic of Guyana,国家和地区
+96,海地,HAITI,HT,HTI,332,海地共和国 Republic of Haiti,国家和地区
+97,赫德岛和麦克唐纳岛,HEARD ISLANDS AND MC DONALD ISLANDS,HM,HMD,334,赫德岛和麦克唐纳岛 Heard islands and Mc Donald Islands,国家和地区
+98,洪都拉斯,HONDURAS,HN,HND,340,洪都拉斯共和国 Republic of honduras,国家和地区
+99,匈牙利,HUNGARY,HU,HUN,348,匈牙利共和国 Republic of Hungary,国家和地区
+100,冰岛,ICELAND,IS,ISL,352,冰岛共和国 Republic of Iceland,国家和地区
+101,印度,INDIA,IN,IND,356,印度共和国 Republic of India,国家和地区
+102,印度尼西亚,INDONESIA,ID,IDN,360,印度尼西亚共和国 Republic of Indonesia,国家和地区
+103,伊朗,IRAN,IR,IRN,364,伊朗伊斯兰共和国 Islamic Rupublic of Iran,国家和地区
+104,伊拉克,IRAQ,IQ,IRQ,368,伊拉克共和国 Republic of Iraq,国家和地区
+105,爱尔兰,IRELAND,IE,IRL,372,爱尔兰 Ireland,国家和地区
+106,以色列,ISRAEL,IL,ISR,376,以色列国 State of Israel,国家和地区
+107,意大利,ITALY,IT,ITA,380,意大利共和国 Republic of Italy,国家和地区
+108,牙买加,JAMAICA,JM,JAM,388,牙买加 Jamaica,国家和地区
+109,日本,JAPAN,JP,JPN,392,日本国 Japan,国家和地区
+110,约旦,JORDAN,JO,JOR,400,约旦哈希姆王国 Hashemite Kingdom of Jordan,国家和地区
+111,哈萨克斯坦,KAZAKHSTAN,KZ,KAZ,398,哈萨克斯坦共和国 Republic of Kazakhstan,国家和地区
+112,肯尼亚,KENYA,KE,KEN,404,肯尼亚共和国 Republic of Kenya,国家和地区
+113,基里巴斯,KIRIBATI,KI,KIR,296,基里巴斯共和国 Republic of Kiribati,国家和地区
+114,朝鲜,"KOREA,DEMOCRATIC PEOPLE'S REPUBLIC OF",KP,PRK,408,朝鲜民主主义人民共和国 Democratic People's Republic of Ko-rea,国家和地区
+115,韩国,"KOREA,REPUBLIC OF",KR,KOR,410,大韩民国 Republic of Korea,国家和地区
+116,科威特,KUWAIT,KW,KWT,414,科威特国 State of Kuwait,国家和地区
+117,吉尔吉斯斯坦,KYRGYZSTAN,KG,KGZ,417,吉尔吉斯共和国 Kyrgyz Republic,国家和地区
+118,老挝,LAOS,LA,LAO,418,老挝人民民主共和国 Lao People's Democratic Republic,国家和地区
+119,拉脱维亚,LATVIA,LV,LVA,428,拉脱维亚共和国 Republic of Latvia,国家和地区
+120,黎巴嫩,LEBANON,LB,LBN,422,黎巴嫩共和国 Republic of Lebanon,国家和地区
+121,莱索托,LESOTHO,LS,LSO,426,莱索托王国 Kingdom of Lesoto,国家和地区
+122,利比里亚,LIBERIA,LR,LBR,430,利比里亚共和国 Republic of Liberia,国家和地区
+123,利比亚,LIBYA,LY,LBY,434,大阿拉伯利比亚人民社会主义民众国 Great Socialist People's Libyan Arab jamahiriya,国家和地区
+124,列支敦士登,LIECHTENSTEIN,LI,LIE,438,列支敦士登公国 Principality of Liechtenstein,国家和地区
+125,立陶宛,LITHUANIA,LT,LTU,440,立陶宛共和国 Republic of Lithuania,国家和地区
+126,卢森堡,LUXEMBOURG,LU,LUX,442,卢森堡大公国 Grand Duchy of Luxembourg,国家和地区
+127,前南马其顿,"MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",MK,MKD,807,"前南斯拉夫马其顿共和国 The Former Yu, goslav Republic of Macedonia",国家和地区
+128,马达加斯加,MADAGASCAR,MG,MDG,450,马达加斯加共和国 Republic of Madagascar,国家和地区
+129,马拉维,MALAWI,MW,MWI,454,马拉维共和国 Republic of Malawi,国家和地区
+130,马来西亚,MALAYSIA,MY,MYS,458,马来西亚 Malaysia,国家和地区
+131,马尔代夫,MALDIVES,MV,MDV,462,马尔代夫共和国 Republic of maldives,国家和地区
+132,马里,MALI,ML,MLI,466,马里共和国 Republic of Mali,国家和地区
+133,马耳他,MALTA,MT,MLT,470,马耳他共和国 Republic of Malta,国家和地区
+134,马绍尔群岛,MARSHALL ISLANDS,MH,MHL,584,马绍尔群岛共和国 Republic of the marshall Islands,国家和地区
+135,马提尼克,MARTINIQUE,MQ,MTQ,474,马提尼克 Martinique,国家和地区
+136,毛里塔尼亚,MAURITANIA,MR,MRT,478,毛里求斯共和国 Republic of Mauritius,国家和地区
+137,毛里求斯,MAURITIUS,MU,MUS,480,毛里求斯共和国 Republic of Mauritius,国家和地区
+138,马约特,MAYOTTE,YT,MYT,175,马约特 Mayotte,国家和地区
+139,墨西哥,MEXICO,MX,MEX,484,墨西哥合众国 United States of Mexico,国家和地区
+140,密克罗尼西亚联邦,"MICRONESIA, FEDERATED STATES OF",FM,FSM,583,密克罗尼西亚联邦 Federated States of Micronesia,国家和地区
+141,摩尔多瓦,MOLDOVA,MD,MDA,498,摩尔多瓦共和国 Republic of Moldova,国家和地区
+142,摩纳哥,MONACO,MC,MCO,492,摩纳哥公国 Principality of Monaco,国家和地区
+143,蒙古,MONGOLIA,MN,MNG,496,蒙古国 Mongolia,国家和地区
+144,蒙特塞拉特,MONTSERRAT,MS,MSR,500,蒙特塞拉特 Montserrat,国家和地区
+145,摩洛哥,MOROCCO,MA,MAR,504,摩洛哥王国 Kingdom of Morocco,国家和地区
+146,莫桑比克,MOZAMBIQUE,MZ,MOZ,508,莫桑比克共和国 Republic of Mozambique,国家和地区
+147,缅甸,MYANMAR,MM,MMR,104,缅甸联邦 Union of Myanmar,国家和地区
+148,纳米比亚,NAMIBIA,NA,NAM,516,纳米比亚共和国 Republic of Namibia,国家和地区
+149,瑙鲁,NAURU,NR,NRU,520,瑙鲁共和国 Republic of Nauru,国家和地区
+150,尼泊尔,NEPAL,NP,NPL,524,尼泊尔王国 Kingdom of Nepal,国家和地区
+151,荷兰,NETHERLANDS,NL,NLD,528,荷兰王国 Kingdom of the Netherlands,国家和地区
+152,荷属安的列斯,NETHERLANDS ANTILLES,AN,ANT,530,荷属安的列斯 Netherlands Antilles,国家和地区
+153,新喀里多尼亚,NEW CALEDONIA,NC,NCL,540,新喀里多尼亚 New Caledonia,国家和地区
+154,新西兰,NEW ZEALAND,NZ,NZL,554,新西兰 New Zealand,国家和地区
+155,尼加拉瓜,NICARAGUA,NI,NIC,558,尼加拉瓜共和国 Republic of Nicaragua,国家和地区
+156,尼日尔,NIGER,NE,NER,562,尼日尔共和国 Republic of Niger,国家和地区
+157,尼日利亚,NIGERIA,NG,NGA,566,尼日利亚联邦共和国 Federal Republic of Nigeria,国家和地区
+158,纽埃,NIUE,NU,NIU,570,纽埃 Niue,国家和地区
+159,诺福克岛,NORFOLK ISLAND,NF,NFK,574,诺福克岛 Norfolk Island,国家和地区
+160,北马里亚纳,NORTHERN MARIANAS,MP,MNP,580,北马里亚纳自由联邦 Commonwealth of the Northern Marianas,国家和地区
+161,挪威,NORWAY,NO,NOR,578,挪威王国 Kingdom of Norway,国家和地区
+162,阿曼,OMAN,OM,OMN,512,阿曼苏丹国 Sultanate of Oman,国家和地区
+163,巴基斯坦,PAKISTAN,PK,PAK,586,巴基斯坦伊斯兰共和国 Islamic Republic of Pakistan,国家和地区
+164,帕劳,PALAU,PW,PLW,585,帕劳共和国 Republic of Palau,国家和地区
+165,巴勒斯坦,PALESTINE,PS,PST,374,巴勒斯坦国 State of Palestine,国家和地区
+166,巴拿马,PANAMA,PA,PAN,591,巴拿马共和国 Republic of Panama,国家和地区
+167,巴布亚新几内亚,PAPUA NEW GUINEA,PG,PNG,598,巴布亚新几内亚独立国 Independent State of Papua New Guinea,国家和地区
+168,巴拉圭,PARAGUAY,PY,PRY,600,巴拉圭共和国 Republic of Paraguay,国家和地区
+169,秘鲁,PERU,PE,PER,604,秘鲁共和国 Republic of Peru,国家和地区
+170,菲律宾,PHILIPPINES,PH,PHL,608,菲律宾共和国 Republic of the Philippines,国家和地区
+171,皮特凯恩群岛,PITCAIRN ISLANDS GROUP,PN,PCN,612,皮竺凯恩群岛 Pitcairn Islands Group,国家和地区
+172,波兰,POLAND,PL,POL,616,波兰共和国 Republic of Poland,国家和地区
+173,葡萄牙,PORTUGAL,PT,PRT,620,葡萄牙共和国 Pirtuguese Republic,国家和地区
+174,波多黎各,PUERTO RICO,PR,PRI,630,波多黎各自由联邦 Commonwealth of Puerto Rico,国家和地区
+175,卡塔尔,QATAR,QA,QAT,634,卡塔尔国 State of Qatar,国家和地区
+176,留尼汪,REUNION,RE,REU,638,留尼汪 Reunion,国家和地区
+177,罗马尼亚,ROMANIA,RO,ROM,642,罗马尼亚 Romania,国家和地区
+178,俄罗斯联邦,RUSSIAN FEDERATION,RU,RUS,643,俄罗斯联邦 Russian Federation,国家和地区
+179,卢旺达,RWANDA,RW,RWA,646,卢旺达共和国 Republic of Rwanda,国家和地区
+180,圣赫勒拿,SAINT HELENA,Sh,SHN,654,对赫勒拿 Saint Helena,国家和地区
+181,圣基茨和尼维斯,SAINT KITTS AND NEVIS,KN,KNA,659,圣革茨和尼维斯联邦 Federation of Saint Kitts and nevis,国家和地区
+182,圣卢西亚,SAINT LUCIA,LC,LCA,662,圣卢西亚 Saint Lucia,国家和地区
+183,圣皮埃尔和密克隆,SAINT PIERRE AND MIQUELON,PM,SPM,666,圣皮埃尔和密克隆 Saint Pierre and Miquelon,国家和地区
+184,圣文森特和格林纳丁斯,SAINT VINCENT AND THE GRENADINES,VC,VCT,670,圣文森特和格林纳丁斯 Saint Vincent and the Grenadines,国家和地区
+185,萨摩亚,SAMOA,WS,WSM,882,萨摩亚独立国 Independent State of Samoa,国家和地区
+186,圣马力诺,SAN MARION,SM,SMR,674,圣马力诺共和国 Republic of San Marino,国家和地区
+187,圣多美和普林西比,SAO TOME AND PRINCIPE,St,STp,678,圣多美和普林西比民主共和国 Democratic Republic of Sao Tome and Principe,国家和地区
+188,沙特阿拉伯,SAUDI ARABIA,SA,SAU,682,沙特阿拉伯王国 Kingdom of Saudi Arabia,国家和地区
+189,塞内加尔,SENEGAL,SN,SEN,686,塞内加尔共和国 Republic of Senegal,国家和地区
+190,塞舌尔,SEYCHELLS,SC,SYC,690,塞舌尔共和国 Republic of Seychelles,国家和地区
+191,塞拉利昂,SIERRA LEONE,SL,SLE,694,塞拉利昂共和国 Republic of Sierra Leone,国家和地区
+192,新加坡,SINGAPORE,SG,SGP,702,新加坡共和国 Republic of Singapore,国家和地区
+193,斯洛伐克,SLOVAKIA,SK,SVK,703,斯洛伐克共和国 Slovak Republic,国家和地区
+194,斯洛文尼亚,SLOVENIA,SI,SVN,705,斯洛文尼亚共和国 Republic of Slovenia,国家和地区
+195,所罗门群岛,SOLOMON ISLANDS,SB,SLB,90,年罗门群岛 Solomon Islands,国家和地区
+196,索马里,SOMALIA,SO,SOM,706,索马里共和国 Somali Republic,国家和地区
+197,南非,SOUTH AFRICA,ZA,ZAF,710,南非共和国 Republic of South Africa,国家和地区
+198,南乔治亚岛和南桑德韦奇岛,SOUTH GEORGIA AND SOUTH SANDWICH ISLANDS,GS,SGS,239,南乔治亚岛和南桑德韦奇岛 South Georgia and South Sandwich Islands,国家和地区
+199,西班牙,SPAIN,ES,ESP,724,西班牙 Spain,国家和地区
+200,斯里兰卡,SRI LANKA,LK,LKA,144,斯里兰卡民主社会主义共和国 Democratic Socialist Republic of Srilanka,国家和地区
+201,苏丹,SUDAN,SD,SDN,736,苏丹共和国 Republic of the Sudan,国家和地区
+202,苏里南,SURINAME,SR,SUR,740,苏里南共和国 Republic of Suriname,国家和地区
+203,斯瓦尔巴群岛,SVALBARD AND JAN MAYEN ISLANDS,SJ,SJM,744,斯瓦尔巴群岛 Svalbard and Jan mayen islands,国家和地区
+204,斯威士兰,SWAZILAND,SZ,SWZ,748,斯威士兰王国 Kingdom of Swaziland,国家和地区
+205,瑞典,SWEDEN,SE,SWE,752,瑞典王国 Kingdom of Sweden,国家和地区
+206,瑞士,SWITZERLAND,CH,CHE,756,瑞士联邦 Swiss Confederation,国家和地区
+207,叙利亚,SYRIA,SY,SYR,760,阿拉伯叙利亚共和国 Syrian Arab Republic,国家和地区
+208,塔吉克斯坦,TAJIKISTAN,TJ,TJK,762,塔吉克斯坦共和国 Republic of Tajikistan,国家和地区
+209,坦桑尼亚,TANZANIA,TZ,TZA,834,坦桑尼亚联合共和国 United Republic of Tanzania,国家和地区
+210,泰国,THAILAND,TH,THA,764,泰王国 Kingdom of Thailand,国家和地区
+211,多哥,TOGO,TG,TGO,768,多哥共和国 Republic of Tago,国家和地区
+212,托克劳,TOKELAU,TK,TKL,772,托克劳 Tokelau,国家和地区
+213,汤加,TONGA,TO,TON,776,汤加王国 Kingdom of Tonga,国家和地区
+214,特立尼达和多巴哥,TRINIDAD AND TOBAGO,TT,TTO,780,特立尼达和多巴哥共和国 Republic of Trinidad and Tobago,国家和地区
+215,突尼斯,TUNISIA,TN,TUN,788,突尼斯共和国 Republic of Tunisia,国家和地区
+216,土耳其,TURKEY,TR,TUR,792,土耳其共和国 Republic of Turkey,国家和地区
+217,土库曼斯坦,TURKMENISTAN,TM,TKM,795,土库曼斯坦 Turkmenistan,国家和地区
+218,特克斯科斯群岛,TURKS AND CAICOS ISLANDS,TC,TCA,796,特克斯和凯科斯群岛 Turks and Caicos Islands,国家和地区
+219,图瓦卢,TUVALU,TV,TUV,798,图瓦卢 Tuvalu,国家和地区
+220,乌干达,UGANDA,UG,UGA,800,乌干达共和国 Republic of Uganda,国家和地区
+221,乌克兰,UKRAINE,UA,UKR,804,乌克兰 Ukraine,国家和地区
+222,阿联酋,UNITED ARAB EMIRATES,AE,ARE,784,拉伯联合酋长国 United Arab Emirates,国家和地区
+223,英国,UNITED KINGDOM,GB,GBR,826,大不列颠及北爱尔兰联合王国 United Kingdom of Great Britain and Northern ireland,国家和地区
+224,美国,UNITED STATES,US,USA,840,美利坚合众国 United States of America,国家和地区
+225,美国本土外小岛屿,UNITED STATES MINOR OUTLYING ISLANDS,UM,UMI,581,美国本土外小岛屿 United States Minor Outlying Islands,国家和地区
+226,乌拉圭,URUGUAY,UY,URY,858,乌拉圭东岸共和国 Oriental Republic of Uruguay,国家和地区
+227,乌兹别克斯坦,UZBEKISTAN,UZ,UZB,860,乌兹别克斯坦共和国 Republic of Uzbekistan,国家和地区
+228,瓦努阿图,VANUATU,VU,VUT,548,瓦努阿图共和国 Republic of Vanuatu,国家和地区
+229,梵蒂冈,VATICAN,VA,VAT,336,梵蒂冈城国 Vatican City State,国家和地区
+230,委内瑞拉,VENEZUELA,VE,VEN,862,委内瑞拉共和国 Republic of Venezuela,国家和地区
+231,越南,VIET NAM,VN,VNM,704,越南社会主席共和国 Socialist Republic of Viet Nam,国家和地区
+232,英属维尔京群岛,"VIRGIN ISLANDS, BRITISH",VG,VGB,92,英属维尔京群岛 British Virgin Islands,国家和地区
+233,美属维尔京群岛,"VIRGIN ISLANDS,U.S.",VI,VIR,850,美属维尔京群岛 Virgin Islands of the United States,国家和地区
+234,瓦利斯和富图纳,WALLIS AND FUTUNA,WF,WLF,876,瓦利斯和富图纳群岛 Wallis and Futuna,国家和地区
+235,西撒哈拉,WESTERN SAHARA,EH,ESH,732,西撒哈拉 Western Sahara,国家和地区
+236,也门,YEMEN,YE,YEM,887,也门共和国 Republic of Yemen,国家和地区
+237,南斯拉夫,YUGOSLAVIA,YU,YUG,891,南斯拉夫联盟共和国 Federal Republic of Yugoslavia,国家和地区
+238,赞比亚,ZAMBIA,ZM,ZMB,894,赞比亚共和国 Republic of Zambia,国家和地区
+239,津巴布韦,ZIMBABWE,ZW,ZWE,716,津巴布韦共和国 Republic of Zimbabwe,国家和地区
