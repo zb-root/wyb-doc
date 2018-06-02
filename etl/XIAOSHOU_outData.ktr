@@ -408,12 +408,12 @@
       <offset>0.0</offset>
       <maxdiff>0.0</maxdiff>
     </maxdate>
-    <size_rowset>10000</size_rowset>
+    <size_rowset>1000</size_rowset>
     <sleep_time_empty>50</sleep_time_empty>
     <sleep_time_full>50</sleep_time_full>
     <unique_connections>N</unique_connections>
     <feedback_shown>Y</feedback_shown>
-    <feedback_size>50000</feedback_size>
+    <feedback_size>5000</feedback_size>
     <using_thread_priorities>Y</using_thread_priorities>
     <shared_objects_file />
     <capture_step_performance>N</capture_step_performance>
@@ -534,7 +534,7 @@
       <date_time_format />
       <sheetname>Sheet1</sheetname>
       <autosizecolums>Y</autosizecolums>
-      <stream_data>N</stream_data>
+      <stream_data>Y</stream_data>
       <protect_sheet>N</protect_sheet>
       <password>Encrypted </password>
       <protected_by />
@@ -830,87 +830,66 @@
     <fields>
       <field>
         <name>YWLSH</name>
-        <rename />
       </field>
       <field>
         <name>XSDW_FRHQTZZTYSHXYDM</name>
-        <rename />
       </field>
       <field>
         <name>XSDW_COMP_NAME</name>
-        <rename />
       </field>
       <field>
         <name>GAJGJGDM</name>
-        <rename />
       </field>
       <field>
         <name>GAJGMC</name>
-        <rename />
       </field>
       <field>
         <name>XSDWJBR_XM</name>
-        <rename />
       </field>
       <field>
         <name>YZBCCCSBM</name>
-        <rename />
       </field>
       <field>
         <name>KF_NAME</name>
-        <rename />
       </field>
       <field>
         <name>XS_RQ</name>
-        <rename />
       </field>
       <field>
         <name>GMDW_FRHQTZZTYSHXYDM</name>
-        <rename />
       </field>
       <field>
         <name>GMDW_COMP_NAME</name>
-        <rename />
       </field>
       <field>
         <name>GMDW_DZMC</name>
-        <rename />
       </field>
       <field>
         <name>GMDW_YZBWXHXPJYZZZMFLDM</name>
-        <rename />
       </field>
       <field>
         <name>GMDW_YZBWXHXPJYZZZMBM</name>
-        <rename />
       </field>
       <field>
         <name>GMDWJBR_XM</name>
-        <rename />
       </field>
       <field>
         <name>GMDWJBR_YZBCYRYSFZJLX</name>
-        <rename />
       </field>
       <field>
         <name>GMDWJBR_ZJHM</name>
-        <rename />
       </field>
       <field>
         <name>GMDWJBR_YDDH</name>
-        <rename />
       </field>
       <field>
         <name>SJGSDWDM</name>
-        <rename />
       </field>
       <field>
         <name>SJGSDWMC</name>
-        <rename />
       </field>
       <field>
         <name>DJSJ</name>
-        <rename />
       </field>
       <select_unspecified>N</select_unspecified>
       <meta>
