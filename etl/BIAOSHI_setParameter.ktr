@@ -530,7 +530,7 @@
     <json_query>{"key":"${syncName}"}</json_query>
     <auth_database>${Mongodb.database}</auth_database>
     <auth_user>${Mongodb.user}</auth_user>
-    <auth_password>Encrypted 2be98afc86aa7f2e4cb79ce10bec3fd89</auth_password>
+    <auth_password>${Mongodb.password}</auth_password>
     <auth_mech>SCRAM-SHA-1</auth_mech>
     <auth_kerberos>N</auth_kerberos>
     <connect_timeout />
@@ -650,7 +650,6 @@
     <fields>
       <field>
         <name>DJSJ</name>
-        <rename />
       </field>
       <select_unspecified>N</select_unspecified>
       <meta>
